@@ -1,9 +1,9 @@
-<div align="center">
-# Ferry  
-** 高级研发工程师 | 安全技术研究员 **  
-9年技术经验 · 7年研发实践 · 持续演进
-</div>
-
+<p align="center">
+  <strong style="font-size:28px">Ferry</strong><br>
+  <strong>高级研发工程师 ｜ 安全技术研究员</strong><br>
+  就职于 <strong>云麾安全实验室</strong><br>
+  9年技术经验 · 7年研发实践 · 持续演进
+</p>
 ---
 ### 📆 技术历程
 
