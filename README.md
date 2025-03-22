@@ -20,21 +20,31 @@
 ### 🛠️ 技术储备
 
 **核心开发**  
-<img src="https://img.shields.io/badge/C%2B%2B/MFC-工业级应用-00599C?logo=c%2B%2B"> 
-<img src="https://img.shields.io/badge/C%23-企业级桌面开发-239120?logo=c-sharp">  
-<img src="https://img.shields.io/badge/Android_原生-安全产品研发-3DDC84?logo=android">
+<img src="https://img.shields.io/badge/Java_EE-企业级架构-ED8B00?logo=openjdk"> 
+<img src="https://img.shields.io/badge/C%2B%2B-MFC工业应用-00599C?logo=c%2B%2B">  
+<img src="https://img.shields.io/badge/C%23-WPF桌面开发-239120?logo=c-sharp">  
+<img src="https://img.shields.io/badge/SpringCloud-微服务治理-6DB33F?logo=spring">
+
+**移动开发**  
+<img src="https://img.shields.io/badge/Android_原生-JNI开发-3DDC84?logo=android"> 
+<img src="https://img.shields.io/badge/iOS_原生-ObjectiveC开发-0A84FF?logo=apple">  
 <img src="https://img.shields.io/badge/UniApp-跨端方案-FF6A00?logo=uniapp">
 
-**逆向安全**  
+**安全实践**  
 <img src="https://img.shields.io/badge/Xposed-模块开发-0078D4?logo=xposed"> 
 <img src="https://img.shields.io/badge/Frida-动态插桩-8A2BE2?logo=frida">  
 <img src="https://img.shields.io/badge/ARM_汇编-协议逆向-0096D6">
-<img src="https://img.shields.io/badge/Smali-代码还原-3DDC84">
 
-**移动开发**  
-<img src="https://img.shields.io/badge/iOS_原生-ObjectiveC分析-0A84FF?logo=apple"> 
-<img src="https://img.shields.io/badge/JNI_开发-原生层交互-3DDC84?logo=android">  
-<img src="https://img.shields.io/badge/UniApp_原生插件-双端对接-FF6A00?logo=uniapp">
+**工程架构**  
+<img src="https://img.shields.io/badge/SpringBoot-敏捷开发-6DB33F?logo=springboot"> 
+<img src="https://img.shields.io/badge/MyBatisPlus-ORM增强-000000">  
+<img src="https://img.shields.io/badge/Redis-分布式缓存-DC382D?logo=redis">  
+<img src="https://img.shields.io/badge/Kafka-消息队列-231F20?logo=apachekafka">
+
+**工具链**  
+<img src="https://img.shields.io/badge/IDA_Pro-二进制分析-000000?logo=hexo"> 
+<img src="https://img.shields.io/badge/JADX-安卓逆向-3DDC84">  
+<img src="https://img.shields.io/badge/Postman-API调试-FF6C37?logo=postman">
 
 ---
 ### 🔍 技术实践
