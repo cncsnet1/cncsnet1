@@ -1,6 +1,6 @@
 <div align="center">
 # Ferry  
-**高级研发工程师 | 安全技术研究员**  
+** 高级研发工程师 | 安全技术研究员 **  
 9年技术经验 · 7年研发实践 · 持续演进
 </div>
 
@@ -61,8 +61,8 @@
 ---
 
 ## 📮 联系方式 | Contact Me
-
-<p align="center">
+<div>
+  <p align="center">
   <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-职业档案-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -79,3 +79,4 @@
 <p align="center">
   <strong>“愿每一行代码都通向未来，每一次交流都激发灵感。”</strong>
 </p>
+</div>
