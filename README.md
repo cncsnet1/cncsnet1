@@ -35,6 +35,7 @@
 <img src="https://img.shields.io/badge/UniApp-跨端架构-FF6A00?logo=uniapp">
 
 **安全纵深**  
+<img src="https://img.shields.io/badge/Python-工具开发-0078D4?logo=xposed"> 
 <img src="https://img.shields.io/badge/Xposed-系统级Hook-0078D4?logo=xposed"> 
 <img src="https://img.shields.io/badge/Frida-运行时插桩-8A2BE2?logo=frida">  
 <img src="https://img.shields.io/badge/ARM_逆向-协议解析-0096D6">
