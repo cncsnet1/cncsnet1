@@ -1,9 +1,26 @@
-<p align="center">
-  <strong style="font-size:28px">Ferry</strong><br>
-  <strong>高级研发工程师 ｜ 安全技术研究员</strong><br>
-  就职于 <strong>云麾安全实验室</strong><br>
-  9年技术经验 · 7年研发实践 · 持续演进
-</p>
+<div align="center" style="border:1px solid #e5e7eb; border-radius:12px; padding:24px; max-width:600px; margin:auto; background-color:#f9fafb; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
+
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="avatar" width="80" style="border-radius:50%; margin-bottom:16px;">
+
+  <h2 style="font-size:28px; margin:0;">🚀 Ferry</h2>
+
+  <p style="font-size:16px; font-weight:bold; margin:6px 0;">👨‍💻 高级研发工程师 ｜ 🔐 安全技术研究员</p>
+  
+  <p style="margin:4px 0;">🏢 就职于 <strong>云麾安全实验室</strong></p>
+  <p style="margin:4px 0;">📊 9年技术经验 · 7年研发实践 · 持续演进</p>
+
+  <hr style="width:60%; border:1px dashed #d1d5db; margin:16px auto;">
+
+  <p style="font-style:italic; color:#555;">
+    🛠️ 技术沉淀价值 · 分享连接你我 <br>
+    “代码不仅是工具，它是通往未来的桥梁。”
+  </p>
+
+  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-职业档案-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+</div>
 ---
 ### 📆 技术历程
 
