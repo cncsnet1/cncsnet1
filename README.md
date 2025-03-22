@@ -1,38 +1,31 @@
-# Ferry | 全栈安全研究员
-**9年技术积淀 · 研发与安全的双重演进**  
-`Network` → `Dev` → `Sec` → `AI` 持续进化者
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&pause=1000&color=20C997&center=true&vCenter=true&width=435&lines=Ferry+%F0%9F%92%BB;%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%91%98+%7C+%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88" alt="动态标题" />
+</div>
 
 ---
 
-## 🧭 技术坐标
+### 🛠️ 技术体系
 
-### 核心能力
-- **逆向工程**：Android应用逆向（JADX/Frida/ARM） | Objective-C运行时分析  
-- **安全研发**：企业级安全产品架构 | 软件供应链安全实践  
-- **全栈开发**：  
-  - 工业级：C++/MFC | C# WPF  
-  - 现代栈：SpringBoot | Vue3+TS | UniApp  
-  - 移动端：Android原生 | 跨平台方案  
+**安全纵深**  
+<img src="https://img.shields.io/badge/-逆向工程-20C997?logo=hexo&logoColor=white"> <img src="https://img.shields.io/badge/-Android%20安全-0078D4?logo=android">  
+<img src="https://img.shields.io/badge/-IDA%20Pro-000000?logo=hexo"> <img src="https://img.shields.io/badge/-Frida-8A2BE2">  
+`二进制分析` `ARM指令集` `Xposed框架` `SDL实践`
 
-### AI融合方向
-- 安全AI Agent架构设计  
-- 大模型辅助代码审计（LLM-SAST）  
-- 智能漏洞模式识别系统  
-- 自适应威胁检测引擎  
+**工程能力**  
+<img src="https://img.shields.io/badge/-C%2B%2B%2FMFC-00599C?logo=c%2B%2B"> <img src="https://img.shields.io/badge/-Spring%20生态-6DB33F?logo=spring">  
+<img src="https://img.shields.io/badge/-Vue3%2BTS-4FC08D?logo=vue.js"> <img src="https://img.shields.io/badge/-UniApp-FF6A00?logo=uniapp">  
+`工业级架构` `跨平台方案` `DevSecOps`
 
----
-
-## ⏳ 职业时间轴
-
-| 时期       | 角色                  | 关键领域                     |
-|------------|-----------------------|------------------------------|
-| 2014-2016  | 网络工程师            | 企业级网络架构               |
-| 2016-2021  | 全栈研发工程师        | C++/C#工业软件 · Web全栈      |
-| 2021-2023  | 安全研究员            | 移动安全 · 企业安全产品研发   |
-| 2023-至今  | AI安全探索            | 安全智能体 · AI增强防御       |
+**AI探索**  
+<img src="https://img.shields.io/badge/-安全智能体-FF6A00"> <img src="https://img.shields.io/badge/-LLM%20应用-43B02A">  
+`AI辅助逆向` `自适应防御` `大模型安全`
 
 ---
 
-## 🔬 技术栈全景
+### 📜 职业年表
 
-**安全领域**  
+```text
+2014-2016 网络架构师      ◈ 企业级网络基础设施
+2016-2021 全栈工程师      ◈ C++/C#工业软件 | Web全栈体系
+2021-2023 安全研究员      ◈ 移动安全 | 企业安全产品
+2023-至今  AI安全探索者   ◈ 传统安全与AI融合研究
