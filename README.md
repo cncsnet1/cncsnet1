@@ -73,7 +73,6 @@
 <div align="center">
 
   <img src="./wechat.jpg" alt="微信二维码" width="160" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15); margin-top:16px;" />
-   <img src="./group.jpg" alt="微信群二维码" width="160" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15); margin-top:16px;" />
   <br>
   <em style="color:#777">📱 微信扫码交流 · 技术互联</em>
 
