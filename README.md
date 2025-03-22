@@ -17,31 +17,34 @@
 | 2025-至今   | 安全产品研发与AI融合         |
 
 ---
-
 ### 🛠️ 技术储备
 
 **核心开发**  
-<img src="https://img.shields.io/badge/Java-后端开发-ED8B00?logo=java"> 
-<img src="https://img.shields.io/badge/C%23-WPF应用-239120?logo=c-sharp">  
-<img src="https://img.shields.io/badge/Spring-微服务架构-6DB33F?logo=spring">
+<img src="https://img.shields.io/badge/C%2B%2B/MFC-工业级应用-00599C?logo=c%2B%2B"> 
+<img src="https://img.shields.io/badge/C%23-企业级桌面开发-239120?logo=c-sharp">  
+<img src="https://img.shields.io/badge/Android_原生-安全产品研发-3DDC84?logo=android">
+<img src="https://img.shields.io/badge/UniApp-跨端方案-FF6A00?logo=uniapp">
 
-**安全实践**  
-<img src="https://img.shields.io/badge/Android-逆向工程-3DDC84?logo=android"> 
-<img src="https://img.shields.io/badge/Frida-动态分析-8A2BE2?logo=frida">  
-<img src="https://img.shields.io/badge/JADX-静态审计-3DDC84">
+**逆向安全**  
+<img src="https://img.shields.io/badge/Xposed-模块开发-0078D4?logo=xposed"> 
+<img src="https://img.shields.io/badge/Frida-动态插桩-8A2BE2?logo=frida">  
+<img src="https://img.shields.io/badge/ARM_汇编-协议逆向-0096D6">
+<img src="https://img.shields.io/badge/Smali-代码还原-3DDC84">
 
-**工程能力**  
-<img src="https://img.shields.io/badge/Redis-缓存方案-DC382D?logo=redis"> 
-<img src="https://img.shields.io/badge/Kafka-消息队列-231F20?logo=apachekafka">  
-<img src="https://img.shields.io/badge/Nginx-负载均衡-009639?logo=nginx">
+**移动开发**  
+<img src="https://img.shields.io/badge/iOS_原生-ObjectiveC分析-0A84FF?logo=apple"> 
+<img src="https://img.shields.io/badge/JNI_开发-原生层交互-3DDC84?logo=android">  
+<img src="https://img.shields.io/badge/UniApp_原生插件-双端对接-FF6A00?logo=uniapp">
 
 ---
-
 ### 🔍 技术实践
 
-- 工业级软件架构设计与性能优化  
-- Android应用逆向与协议分析  
-- 安全检测框架设计与实现  
+- **工业软件架构**：基于Java的CRM和QMS开发与维护  
+- **逆向工程方案**：Android应用协议逆向（Frida动态分析 + Xposed模块开发）  
+- **安全产品研发**：参与企业级EDR系统检测模块开发  
+- **代码审计实践**：Java/C#项目漏洞挖掘与修复方案实施  
+- **自动化工具链**：构建CI/CD流程中的安全检测节点  
+- **AI应用预研**：探索LLM辅助代码审计工具原型
 ---
 
 ### 🌱 技术探索
