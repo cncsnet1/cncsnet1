@@ -3,18 +3,10 @@
 
   <h2 style="font-size:28px; margin:0;">🚀 Ferry</h2>
 
-  <p style="font-size:16px; font-weight:bold; margin:6px 0;">👨‍💻 高级研发工程师 ｜ 🔐 安全技术研究员</p>
+  <p style="font-size:16px; font-weight:bold; margin:6px 0;">👨‍💻 中/高研发工程师 ｜ 🔐 安全技术研究员</p>
   
   <p style="margin:4px 0;">🏢 就职于 <strong>云麾安全实验室</strong></p>
   <p style="margin:4px 0;">📊 9年技术经验 · 7年研发实践 · 持续演进</p>
-
-  <hr style="width:60%; border:1px dashed #d1d5db; margin:16px auto;">
-
-  <p style="font-style:italic; color:#555;">
-    🛠️ 技术沉淀价值 · 分享连接你我 <br>
-    “代码不仅是工具，它是通往未来的桥梁。”
-  </p>
-
 </div>
 
 
@@ -76,22 +68,23 @@
 ---
 
 ## 📮 联系方式 | Contact Me
-<div>
-  <p align="center">
-  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-职业档案-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
 
----
+<div align="center">
 
-<p align="center" style="font-size:16px">
-  🛠️ Code with Precision · Build with Passion  
-  💬 技术连接你我 · 分享成就价值  
-  🚀 Engineering elegant systems, one commit at a time
-</p>
+  <img src="https://yourdomain.com/your-wechat-qrcode.png" alt="微信二维码" width="160" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15); margin-top:16px;" />
+  <br>
+  <em style="color:#777">📱 微信扫码交流 · 技术互联</em>
 
-<p align="center">
-  <strong>“愿每一行代码都通向未来，每一次交流都激发灵感。”</strong>
-</p>
+  <hr style="width:60%; border:1px dashed #ccc; margin:24px auto;">
+
+  <p style="font-size:16px">
+    🛠️ Code with Precision · Build with Passion  
+    💬 技术连接你我 · 分享成就价值  
+    🚀 Engineering elegant systems, one commit at a time
+  </p>
+
+  <p>
+    <strong>“愿每一行代码都通向未来，每一次交流都激发灵感。”</strong>
+  </p>
+
 </div>
