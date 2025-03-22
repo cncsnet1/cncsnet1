@@ -1,16 +1,38 @@
-## Hi there 👋
+# Ferry | 全栈安全研究员
+**9年技术积淀 · 研发与安全的双重演进**  
+`Network` → `Dev` → `Sec` → `AI` 持续进化者
 
-<!--
-**cncsnet1/cncsnet1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧭 技术坐标
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 核心能力
+- **逆向工程**：Android应用逆向（JADX/Frida/ARM） | Objective-C运行时分析  
+- **安全研发**：企业级安全产品架构 | 软件供应链安全实践  
+- **全栈开发**：  
+  - 工业级：C++/MFC | C# WPF  
+  - 现代栈：SpringBoot | Vue3+TS | UniApp  
+  - 移动端：Android原生 | 跨平台方案  
+
+### AI融合方向
+- 安全AI Agent架构设计  
+- 大模型辅助代码审计（LLM-SAST）  
+- 智能漏洞模式识别系统  
+- 自适应威胁检测引擎  
+
+---
+
+## ⏳ 职业时间轴
+
+| 时期       | 角色                  | 关键领域                     |
+|------------|-----------------------|------------------------------|
+| 2014-2016  | 网络工程师            | 企业级网络架构               |
+| 2016-2021  | 全栈研发工程师        | C++/C#工业软件 · Web全栈      |
+| 2021-2023  | 安全研究员            | 移动安全 · 企业安全产品研发   |
+| 2023-至今  | AI安全探索            | 安全智能体 · AI增强防御       |
+
+---
+
+## 🔬 技术栈全景
+
+**安全领域**  
