@@ -1,6 +1,5 @@
 <div align="center" style="border:1px solid #e5e7eb; border-radius:12px; padding:24px; max-width:600px; margin:auto; background-color:#f9fafb; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
 
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="avatar" width="80" style="border-radius:50%; margin-bottom:16px;">
 
   <h2 style="font-size:28px; margin:0;">🚀 Ferry</h2>
 
@@ -16,12 +15,11 @@
     “代码不仅是工具，它是通往未来的桥梁。”
   </p>
 
-  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-职业档案-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-
 </div>
+
+
 ---
+
 ### 📆 技术历程
 
 | 时间段      | 工作内容                     |
